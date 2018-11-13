@@ -1,0 +1,7 @@
+C:\Users\joarjohn\source\repos\programering 2\Bank\Bank\obj\Debug\Bank.csprojAssemblyReference.cache
+C:\Users\joarjohn\source\repos\programering 2\Bank\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\joarjohn\source\repos\programering 2\Bank\Bank\bin\Debug\Bank.exe.config
+C:\Users\joarjohn\source\repos\programering 2\Bank\Bank\bin\Debug\Bank.exe
+C:\Users\joarjohn\source\repos\programering 2\Bank\Bank\bin\Debug\Bank.pdb
+C:\Users\joarjohn\source\repos\programering 2\Bank\Bank\obj\Debug\Bank.exe
+C:\Users\joarjohn\source\repos\programering 2\Bank\Bank\obj\Debug\Bank.pdb
